@@ -23,3 +23,11 @@ ff.py
 qq phone phone
 
 -----
+wifipineapple 是国产大菠萝（wifipineapple）固件。下载请注意检查hash
+
+shasum wifipineapple.zip                                                              
+71fda04a2f17e929c3a4ab40fd52fa29f15f4622  wifipineapple.zip
+
+shasum 2.5.4                                    
+324fcfe1a191fdd637db0beee163ff7ede1929c6  2.5.4
+----
