@@ -24,10 +24,12 @@ qq phone phone
 
 -----
 wifipineapple 是国产大菠萝（wifipineapple）固件。下载请注意检查hash
+为什么上传这个呢？因为国产硬件刷官方固件会有很多问题。这个我问客服从2020年9月要到今年5月份才给我。。。。
 
 shasum wifipineapple.zip                                                              
 71fda04a2f17e929c3a4ab40fd52fa29f15f4622  wifipineapple.zip
 
 shasum 2.5.4                                    
 324fcfe1a191fdd637db0beee163ff7ede1929c6  2.5.4
+
 ----
