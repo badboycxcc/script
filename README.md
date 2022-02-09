@@ -33,3 +33,6 @@ shasum 2.5.4
 324fcfe1a191fdd637db0beee163ff7ede1929c6  2.5.4
 
 ----
+NimFileBinder--文件捆绑生成器
+https://github.com/evilashz/NimFileBinder
+编译后的二进制文件：
