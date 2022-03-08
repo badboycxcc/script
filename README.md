@@ -1,7 +1,7 @@
 # script 
 存放个人编写的小脚本、小工具。
 
-
+2022/03/08
 dirtypipez.c  Linux 本地权限提升漏洞 CVE-2022-0847
 ![image](https://user-images.githubusercontent.com/72059221/157146480-ff3d2f51-2d0b-4e79-9f7c-bf7f08a63c19.png)
 
