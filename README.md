@@ -4,7 +4,7 @@
 ---- 
 
 2022/05/16
-zyxel.yaml    CVE-2022-30525: Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525）Nuclei检测脚本 (使用 interactsh 反连平台）
+zyxel.yaml    CVE-2022-30525: Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525）Nuclei批量检测脚本 (使用 interactsh 反连平台）
 ![image](https://user-images.githubusercontent.com/72059221/168501154-86854f80-69b8-41ff-b942-18d9b96a4951.png)
 
 
