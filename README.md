@@ -1,6 +1,16 @@
 # script 
 存放个人编写的小脚本、小工具。
 
+---- 
+
+2022/05/16
+zyxel.yaml    CVE-2022-30525: Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525）Nuclei检测脚本 (使用 interactsh 反连平台）
+![image](https://user-images.githubusercontent.com/72059221/168501154-86854f80-69b8-41ff-b942-18d9b96a4951.png)
+
+
+------
+
+
 2022/03/08
 dirtypipez.c  Linux 本地权限提升漏洞 CVE-2022-0847
 ![image](https://user-images.githubusercontent.com/72059221/157146480-ff3d2f51-2d0b-4e79-9f7c-bf7f08a63c19.png)
@@ -45,3 +55,5 @@ https://github.com/evilashz/NimFileBinder
 
 
 编译后的二进制文件：https://github.com/badboycxcc/script/blob/main/NimFileBender
+
+
