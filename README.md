@@ -1,6 +1,11 @@
 # script 
 存放个人编写的小脚本、小工具。
 
+----
+内网IP存活探测工具  
+https://github.com/badboycxcc/ipscan  
+
+
 ---- 
 
 2022/05/16
