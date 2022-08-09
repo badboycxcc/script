@@ -1,6 +1,10 @@
 # script 
 存放个人编写的小脚本、小工具。
 
+--- 
+Conti 勒索团队泄露的文件
+[Conti 勒索团队泄露的文件](https://github.com/badboycxcc/files)
+
 ----
 内网IP存活探测工具  
 [ipscan](https://github.com/badboycxcc/ipscan)   
