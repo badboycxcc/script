@@ -2,6 +2,9 @@
 存放个人编写的小脚本、小工具。
 
 --- 
+[Cobatl-Strike-Tools](https://github.com/badboycxcc/Cobatl-Strike-Tools)
+
+--- 
 [Conti 勒索团队泄露的文件](https://github.com/badboycxcc/files)
 
 ----
