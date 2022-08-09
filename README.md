@@ -2,11 +2,10 @@
 存放个人编写的小脚本、小工具。
 
 --- 
-Conti 勒索团队泄露的文件
 [Conti 勒索团队泄露的文件](https://github.com/badboycxcc/files)
 
 ----
-内网IP存活探测工具  
+内网IP存活探测工具
 [ipscan](https://github.com/badboycxcc/ipscan)   
 ![image](https://user-images.githubusercontent.com/72059221/177450573-7a47deb5-5341-45d5-bd04-b9e6d8603386.png)
 
