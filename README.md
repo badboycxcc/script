@@ -3,6 +3,7 @@
 
 --- 
 [Cobatl-Strike-Tools](https://github.com/badboycxcc/Cobatl-Strike-Tools)
+![image](https://user-images.githubusercontent.com/72059221/184759775-ad3d883f-bb14-4023-8bf4-3c0fdd05e538.png)
 
 --- 
 [Conti 勒索团队泄露的文件](https://github.com/badboycxcc/files)
