@@ -1,6 +1,7 @@
 # script 
 存放个人编写的小脚本、小工具。
 ---
+.DS_Store 文件泄漏利用脚本    
 ds_store_scan.py 修改自 [lijiejie](https://github.com/lijiejie/ds_store_exp)， 支持https  
 
 --- 
