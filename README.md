@@ -1,6 +1,11 @@
 # script 
 存放个人编写的小脚本、小工具。
 ---
+CVE-2022-31793    CVE-2022-31793.yaml   
+![4pkpQtHKl6](https://user-images.githubusercontent.com/72059221/184816497-815b1467-f7f4-4dda-8b9d-2fa8fcb10240.jpg)
+
+
+---
 .DS_Store 文件泄漏利用脚本    
 ds_store_scan.py 修改自 [lijiejie](https://github.com/lijiejie/ds_store_exp)， 支持https  
 
