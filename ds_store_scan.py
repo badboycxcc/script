@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
-# LiJieJie    my[at]lijiejie.com    http://www.lijiejie.com
+# cxaqhq
 
 import sys
 try:
