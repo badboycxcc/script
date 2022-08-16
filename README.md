@@ -1,7 +1,7 @@
 # script 
 存放个人编写的小脚本、小工具。
 ---
-CVE-2022-31793    CVE-2022-31793.yaml   
+CVE-2022-31793.yaml   CVE-2022-31793: Arris 读取任意文件 Nuclei批量检测规则
 ![4pkpQtHKl6](https://user-images.githubusercontent.com/72059221/184816497-815b1467-f7f4-4dda-8b9d-2fa8fcb10240.jpg)
 
 
