@@ -1,4 +1,12 @@
 # script 
+
+CobaltStrike4.7  
+Hash：c1cda82b39fda2f77c811f42a7a55987adf37e06a522ed6f28900d77bbd4409f   
+<img width="1511" alt="截屏2022-09-12 上午7 08 11" src="https://user-images.githubusercontent.com/72059221/189552813-90d2427c-afab-4d7d-af73-52e349f4ac5f.png">
+
+
+---
+
 存放个人编写的小脚本、小工具。
 ---
 2022/08/16    CVE-2022-31793.yaml      CVE-2022-31793: Arris 读取任意文件 Nuclei批量检测规则
