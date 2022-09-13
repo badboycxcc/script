@@ -1,6 +1,9 @@
 # script 
 
-Fscan M1 
+Fscan M1   
+
+https://github.com/badboycxcc/script/blob/main/fscan 
+
 
 MD5  
 e80781fdd5c02a07e77498368b426e89
