@@ -1,5 +1,12 @@
 # script 
 
+免杀Fscan、LadonGo
+- https://github.com/badboycxcc/script/blob/main/f.zip
+- https://github.com/badboycxcc/script/blob/main/Ladon.zip
+
+---
+
+
 Fscan M1   
 
 https://github.com/badboycxcc/script/blob/main/fscan 
